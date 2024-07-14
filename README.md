@@ -10,7 +10,7 @@ Or `brew tap tekl/dictionaries` and then `brew install openthesaurus-deutsch`.
 
 For more details about the plugin look at: <https://github.com/Tekl/openthesaurus-deutsch>
 
-### BeoLingus Deutsch-Englisch dictionary plugin
+### Beolingus Deutsch-Englisch dictionary plugin
 
 `brew install tekl/dictionaries/beolingus-deutsch-englisch`
 
