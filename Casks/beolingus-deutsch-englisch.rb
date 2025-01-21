@@ -1,6 +1,6 @@
 cask "beolingus-deutsch-englisch" do
-  version "2024.11.09"
-  sha256 "27ebef40a7d8ca9c354839a1452d90e40ec6f7e279341a7580ccbb1d1ff171f3"
+  version "2025.01.21"
+  sha256 "40fceb27e677255076172f43b55bde5775f348ce178771c43cba4e4becb37707"
 
   url "https://github.com/Tekl/beolingus-deutsch-englisch/releases/download/v#{version}/Beolingus_Deutsch-Englisch_dictionaryfile.zip",
       verified: "github.com/Tekl/beolingus-deutsch-englisch/"
