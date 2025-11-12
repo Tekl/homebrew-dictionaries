@@ -13,8 +13,6 @@ cask "beolingus-deutsch-englisch" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :el_capitan"
-
   dictionary "Beolingus Deutsch-Englisch.dictionary"
 
   # No zap stanza required
