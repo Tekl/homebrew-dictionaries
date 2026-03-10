@@ -1,5 +1,7 @@
 # Tekl.de – Dictionary plugins for macOS
 
+With these Homebrew Casks, you can install and update the macOS dictionary plugins from Tekl.de via the Terminal.
+
 ## How do I install these formulae?
 
 ### OpenThesaurus Deutsch dictionary plugin
